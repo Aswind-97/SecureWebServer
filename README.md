@@ -10,7 +10,7 @@ You will write two shell scripts to automate the installation and configuration 
 
 installation.sh: It will include all the commands regarding installation of all the necessary services and tools. Also, all configuration scripts for LAMP.implementation.sh: It will include all the commands regarding implementing policies for your firewall, IDS, etc. You may use a stream editor such as “sed” to implement them using your automated scripts, if that requires editing specific files. 
 
-NOTE!
+**************************** NOTE!*****************************************
 
 Ran on a VM using Virtual Box and Ubuntu 20. 
 
