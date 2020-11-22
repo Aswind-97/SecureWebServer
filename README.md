@@ -9,3 +9,9 @@ In this project, you are to prepare a web server and a website for a small busin
 You will write two shell scripts to automate the installation and configuration of your system for disaster recovery purposes with comments for every single command: 
 
 installation.sh: It will include all the commands regarding installation of all the necessary services and tools. Also, all configuration scripts for LAMP.implementation.sh: It will include all the commands regarding implementing policies for your firewall, IDS, etc. You may use a stream editor such as “sed” to implement them using your automated scripts, if that requires editing specific files. 
+
+NOTE!
+
+Ran on a VM using Virtual Box and Ubuntu 20. 
+
+If using an earlier version of Ubuntu, all but SNORT should work. 
